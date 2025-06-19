@@ -1,8 +1,8 @@
 # FullStack-Academy-Penetration-Report
 Red Team Penetration Test – Capture the Flag
 As part of a cybersecurity training program at Fullstack Academy, I completed an individual red team engagement targeting an isolated network. This exercise tested my ability to identify vulnerabilities, exploit systems, escalate access, and retrieve sensitive data across multiple platforms.
-
-# Engagement Overview
+# 
+Engagement Overview
 After contributing to a successful team-based penetration test, I was assigned a follow-up assessment on a separate segment of the network. The goal was to conduct a full penetration test independently, working within the constraints of a simulated enterprise environment.
 
 Scope and Rules
@@ -10,7 +10,7 @@ Only systems within the same /20 subnet as my Kali Linux machine were in scope.
 No use of social engineering or client-side attacks.
 All tools used were pre-installed; no external downloads allowed.
 Collaboration was allowed, but the full execution was completed individually.
-
+# 
 1. Summary of Testing Process
 Network Reconnaissance
 Identified active hosts and scanned ports/services using Nmap.
